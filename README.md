@@ -1,4 +1,3 @@
-(The file `/Users/ttg/Code/map-poster-app/README.md` exists, but is empty)
 # Map Poster App — Web Frontend for City Map Poster Generator
 
 **Note:** This app is a web front for the [City Map Poster Generator](https://github.com/originalankur/maptoposter) by [OriginaAnkur](https://github.com/originalankur).
